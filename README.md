@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**jerious1337/jerious1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>My name is Lucas, i'm a full-stack programmer</p>
 
-Here are some ideas to get you started:
+<p>I started programming in July 2024 and since then I've been creating and participating in some projects.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>I started programming with the web, but over time I've worked with other things.</p>
+
+### My languages:
+- HTML
+- CSS
+- Java Script (First Language)
+- Type Script
+- Java
+- C
+- C++
+- C#
+- Go
+- Python
+- Lua
+- Assembly
+
+### My skills:
+- Knowledge of websockets
+- Knowledge of databases
+- Basic design
+- APIs
