@@ -6,21 +6,14 @@
 
 <p>I started programming with the web, but over time I've worked with other things.</p>
 
-## My languages:
-- HTML
-- CSS
-- Java Script (First Language)
-- Type Script
-- Java
-- C
-- C++
-- C#
+## 👽 Languages:
+- Java Script - First Language / HTML / CSS / Type Script
+- Java / C / C++ / C#
 - Go
-- Python
-- Lua
+- Python / Lua
 - Assembly
 
-## My skills:
+## 🚀 My skills:
 - Knowledge of websockets
 - Knowledge of databases
 - Basic design
