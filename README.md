@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<p>My name is Lucas, i'm a full-stack programmer</p>
+<p>My name is Lucas, and I'm a full-stack developer.</p>
 
-<p>I started programming in July 2024 and since then I've been creating and participating in some projects.</p>
+<p>I began programming in July 2024, and since then, I've been actively creating and contributing to various projects.</p>
 
-<p>I started programming with the web, but over time I've worked with other things.</p>
+<p>I started with web development, but over time I've explored other areas and technologies as well.</p>
 
 ## 👽 Languages:
 - Java Script - First Language / HTML / CSS / Type Script
