@@ -22,3 +22,11 @@
 ## 🛠️ Some public projects:
 - [Local Database](https://github.com/jerious1337/LocalDatabase)
 - [CDN API](https://github.com/jerious1337/cdn-service-api)
+  
+## 🧠 Current Project: Custom Kernel
+
+<p>I'm currently working on building a custom kernel from scratch.</p>
+
+x86 Assembly and C integration
+
+<p>The goal is to better understand how operating systems, and computers work under the hood.</p>
