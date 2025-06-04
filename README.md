@@ -27,6 +27,6 @@
 
 <p>I'm currently working on building a custom kernel from scratch.</p>
 
-x86 Assembly and C integration
+- x86 Assembly and C integration
 
 <p>The goal is to better understand how operating systems, and computers work under the hood.</p>
