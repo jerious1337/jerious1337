@@ -20,5 +20,5 @@
 - APIs
 
 ## 🛠️ Some public projects:
-![Local Database](https://github.com/jerious1337/LocalDatabase)
-![CDN API](https://github.com/jerious1337/cdn-service-api)
+- [Local Database](https://github.com/jerious1337/LocalDatabase)
+- [CDN API](https://github.com/jerious1337/cdn-service-api)
