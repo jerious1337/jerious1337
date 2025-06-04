@@ -6,7 +6,7 @@
 
 <p>I started programming with the web, but over time I've worked with other things.</p>
 
-### My languages:
+## My languages:
 - HTML
 - CSS
 - Java Script (First Language)
@@ -20,7 +20,7 @@
 - Lua
 - Assembly
 
-### My skills:
+## My skills:
 - Knowledge of websockets
 - Knowledge of databases
 - Basic design
