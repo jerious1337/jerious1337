@@ -19,4 +19,4 @@
 - APIs.
 
 ## 🛠️ Some public projects:
-- [Beere Language](https://github.com/jerious1337/beere)— A programming language made from scratch
+- [Beere Language](https://github.com/jerious1337/beere) — A programming language made from scratch
